@@ -1,0 +1,29 @@
+.container-title {
+	text-align:center;
+	margin:40px;
+	color:#39FF14;
+}
+
+.flex-box-bits-button, .flex-box-bits-counter, .flex-shop, .flex-box-bitsps-counter{
+	display:flex;
+	flex-wrap:wrap;
+	text-align:center;
+	justify-content:space-around;
+	margin:40px;
+	color:#39FF14;
+}
+
+.shop-item {
+	display:flex;
+	text-align:center;
+	flex-wrap:wrap;
+
+	color:#39FF14;
+	justify-content:space-around;
+}
+
+.shop-item div{
+	border:1px solid #39FF14;
+	padding:15px;
+	margin:20px;
+}
